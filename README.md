@@ -13,4 +13,6 @@ automation tool used for MLPerf inference
 - created the run.sh script .
 - granted permission to run and ran it.
   
- 
+## Model And Dataset Selected 
+-selected ResNet 50 model for image classification task
+-dataset selected was from imagenet
