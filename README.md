@@ -12,4 +12,5 @@ automation tool used for MLPerf inference
 - tested weather the CM is working precisely
 - created the run.sh script .
 - granted permission to run and ran it.
+  
  
