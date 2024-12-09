@@ -16,3 +16,5 @@ automation tool used for MLPerf inference
 ## Model And Dataset Selected 
 -selected ResNet 50 model for image classification task
 -dataset selected was from imagenet
+
+![Benchmarking Results](https://github.com/SHASHANKTM7/COLLECTIVE_MINDS/blob/main/result%20of%20benchmarking.png)
