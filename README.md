@@ -16,5 +16,8 @@ automation tool used for MLPerf inference
 ## Model And Dataset Selected 
 -selected ResNet 50 model for image classification task
 -dataset selected was from imagenet
-
 ![Benchmarking Results](https://github.com/SHASHANKTM7/COLLECTIVE_MINDS/blob/main/result%20of%20benchmarking.png)
+
+-selected retinanet model for object detection task
+-dataset selected was fron OpenImages
+![Benchmarking Results](![Benchmarking Results](https://github.com/SHASHANKTM7/COLLECTIVE_MINDS/blob/main/retina_net%20model%20_object_detection.png)
